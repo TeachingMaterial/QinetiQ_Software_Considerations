@@ -1177,6 +1177,8 @@ int AddNumbers(int a, int b) {
 
 ## Other conventions
 
+<div style="font-size:27px">
+
 **GNU C:**
 - Naming: Typically follows the lowercase with underscores for variables and functions (e.g., `my_variable`,` my_function()`).
 - Indentation: Uses spaces for indentation (often 2 or 4 spaces).
@@ -1186,9 +1188,13 @@ int AddNumbers(int a, int b) {
 - Similar to the GNU C conventions.
 - It may include additional guidelines for contributing to the GCC codebase.
 
+</div>
+
 ---
 
 ## Other conventions
+
+<div style="font-size:26px">
 
 **LLVM:**
 - Naming: Uses camelCase for function names and lowercase with underscores for variable names (e.g., `myVariable`, `my_function()`).
@@ -1200,8 +1206,14 @@ int AddNumbers(int a, int b) {
 - Indentation: Typically 4 spaces.
 - Brace Style: Opening braces are on the same line.
 
+</div>
+
 ---
+
 ## Other conventions
+
+<div style="font-size:26px">
+
 **Google C++ Style Guide:**
 - Naming: Uses camelCase for variable names, and underscores for function names (e.g., `myVariable`,` my_function()`).
 - Indentation: Typically 2 spaces.
@@ -1212,8 +1224,13 @@ int AddNumbers(int a, int b) {
 - Indentation: Typically 2 spaces.
 - Brace Style: Opening braces are on the same line.
 
+</div>
+
 ---
 ## Other conventions
+
+<div style="font-size:26px">
+
 **Linux Kernel Coding Style:**
 - Naming: Uses lowercase with underscores for variables and functions (e.g., `my_variable`, `my_function()`).
 - Indentation: Typically 8 spaces.
@@ -1224,9 +1241,13 @@ int AddNumbers(int a, int b) {
 - Indentation: Typically 4 spaces.
 - Brace Style: Opening braces are on the same line.
 
+</div>
+
 --- 
 
 ## Documentation, 'doc as you go...'
+
+<div style="font-size:27px">
 
 **Why Documentation**
 
@@ -1242,6 +1263,8 @@ int AddNumbers(int a, int b) {
   - Reproducibility and transparency
 ![bg right:30% 100% vertical](../figures/codefacebook.png)
 ![bg right:30% 100% vertical](../figures/codefacebook2.png)
+
+<div>
 
 ---
 ## Tools for Documentation
