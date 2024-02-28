@@ -39,7 +39,7 @@ math: true
     
     
 
-<!--footer: "![w:200](../figures/uog_white.png) \n\tQinetiQ | ManPower "  -->
+<!--footer: "![w:200](../figures/uog_white.png)"  -->
 
 ---
 
